@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void yes_answer(View view) {
         TextView tv = (TextView)findViewById(R.id.show_text);
-        tv.setText("YAK 100 JUTA RUPIAH");
+        tv.setText("YAK 100 JUTA RUPIAH BELUM TERMASUK PAJAK HAHAHAHHAHAHAA");
     }
 
     public void no_answer(View view) {
